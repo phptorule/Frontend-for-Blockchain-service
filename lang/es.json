@@ -1,0 +1,116 @@
+{
+  "languages": {
+    "en": "Inglés",
+    "br": "Brasileño",
+    "fr": "Francés",
+    "de": "Alemán",
+    "es": "Español",
+    "ru": "Ruso"
+  },
+  "countdown": {
+    "days": "Días",
+    "hours": "Horas",
+    "minutes": "Minutos",
+    "seconds": "Segundos"
+  },
+  "month": {
+    "august": "Agosto",
+    "october": "Octubre",
+    "november": "Noviembre"
+  },
+  "form": {
+    "your_name": "Su nombre",
+    "incorrect_name": "Nombre incorrecto",
+    "e_mail": "E-mail",
+    "incorrect_email": "Dirección de email incorrecta",
+    "your_message": "Su mensaje",
+    "message_is_required": "Mensaje obligatorio",
+    "send": "Enviar",
+    "follow_facebook": "Síganos en Facebook",
+    "follow_twitter": "Síganos en Twitter",
+    "join_telegram": "Únase a nuestro canal Telegram"
+  },
+  "features_section": {
+    "jerusalem_chain_pieces": "Piezas de la Cadena de Jerusalén",
+    "jerusalem_chain_pieces_text": "La Cadena de Jerusalén representa 650 m2 de tierra que quedan en el centro de los lugares de más espiritualidad del mundo. Esta tierra está dividida en 2,166,667 partes de 3 cm2, cada una de las cuales tiene una contraparte digital. Estas piezas digitales se ofrecerán en propiedad a todo el que busque marcar su legado en la ciudad santa.",
+    "your_legacy": "Su legado",
+    "your_legacy_text": "La Cadena de Jerusalén ha hecho posible que cualquiera marque su legado, eternamente, adquiriendo una pieza de Jerusalén. La propiedad de una de las 2,166,667 piezas de la Cadena Digital de Jerusalén será grabada irrevocablemente e inmutablemente en Blockchain, permitiendo así a todo el mundo asegurar su pieza de historia y marcar su legado.",
+    "reservation_sale": "Venta de reserva",
+    "reservation_sale_text": "Durante la venta de reserva, se ofrecerán piezas de la Cadena de Jerusalén a cualquier persona interesada en solicitar su propia pieza de la ciudad santa de Jerusalén, marcar su legado en su historia y establecer una relación duradera con Jerusalén incluso si está físicamente distante. Durante la venta de reserva, se ofrecerán piezas de la Cadena de Jerusalén a precio atractivo, reducido.",
+    "blockchain_technology": "Tecnología blockchain",
+    "blockchain_technology_text": "La tecnología de cadena de bloques proporciona un almacenamiento descentralizado, transparente y seguro de valores y datos. A través del uso de la red Ethereum, la Cadena de Jerusalén ofrece la propiedad de piezas de la Cadena de Jerusalén. Cada registro de propiedad grabado en Blockchain incluye información del propietario (no obligatorio) que garantiza la propiedad inmutable, irrevocable, transparente de una pieza digital.",
+    "jerusalem_chain_project": "Proyecto Cadena de Jerusalén",
+    "jerusalem_chain_project_text": "El proyecto Cadena de Jerusalén tiene como objetivo crear una representación digital de la parcela física de tierra de 650 m2. Cada propietario de una pieza digital tendrá la posibilidad de acceder a una interfaz gráfica de usuario (ej. un mapa virtual, interactivo) que estará disponible en la web de la Cadena de Jerusalén. En el mapa, los propietarios podrán ubicar y explorar su trozo de tierra."
+  },
+  "timeline_section": {
+    "reservation_sale": "Venta de reserva",
+    "reservation_sale_text": "Durante la venta de reserva, se ofrecerá un número limitado de piezas de la Cadena de Jerusalén para reserva a precios atractivo. Durante esta fase, podrá comprar y reservar la (s) pieza (s) de la Cadena de Jerusalén por orden de llegada.",
+    "project_launch": "Lanzamiento del proyecto",
+    "project_launch_text": "Después del lanzamiento de la Cadena de Jerusalén podrá explorar su propiedad a través de la interfaz digital en el sitio web de la Cadena de Jerusalén. Podrá ver su propia parte, acceder a su legado y mantener esta conexión especial con Jerusalén.",
+    "memorabilia": "Memorabilia",
+    "memorabilia_text": "Los propietarios de las piezas tendrán la opción de comprar un certificado de propiedad impreso y enmarcado de la Cadena de Jerusalén que le permitirá mostrar su legado y mantener la relación especial con Jerusalén incluso en la distancia física."
+  },
+  "faq_section": {
+    "what_is_jerusalem_land": "Qué es la Tierra de la Cadena de Jerusalén",
+    "what_is_jerusalem_land_text_one": "La Cadena de Jerusalén es un proyecto que permite que personas de todo el mundo dejen su legado en la historia de Jerusalén. La Cadena de Jerusalén es la propietaria de 650 m2 de tierra que quedan en las colinas del Monte de los Olivos en Jerusalén, en el centro de los lugares de más espiritualidad del mundo. Esta tierra está dividida en 2,166,667 partes de 3 cm2, cada una de las cuales tiene una contraparte digital. Estas piezas digitales se ofrecen como propiedad a cualquiera que quiera marcar su legado en la ciudad santa y dejar su huella.",
+    "what_is_jerusalem_land_text_two": "Usar la tecnología blockchain de la Cadena de Jerusalén es ofrecer la propiedad de piezas digitales de la Cadena de Jerusalén. Cada registro de propiedad grabado en Blockchain incluye información del propietario (no obligatorio) que garantiza la propiedad inmutable, irrevocable, transparente de una pieza digital junto a un legado duradero.",
+    "piece_of_land_look_like": "¿Qué aspecto tiene un pedazo de tierra?",
+    "is_the_land_mine": "¿La tierra que compré es mía?",
+    "is_ownership_private": "¿Es privada la información sobre la propiedad?",
+    "can_i_buy_land_as_a_gift": "¿Puedo comprar la tierra de la Cadena de Jerusalén como un regalo?"
+  },
+  "about_section": {
+    "mark_your_legacy": "Marcar su legado en Jerusalén",
+    "legacy_first": "A lo largo de la historia, Jerusalén ha sido un lugar sagrado, el epicentro de la tierra santa, aparentemente fuera del alcance. La gente siempre ha buscado establecer una profunda conexión con la tierra santa y dejar su huella. Esto era inimaginable hasta ahora.",
+    "legacy_second": "La tecnología blockchain permite a cualquiera establecer una conexión especial con la ciudad santa al obtener la propiedad de un terreno digital de Jerusalén y al hacerlo, marcar su legado en la historia de Jerusalén."
+  },
+  "sold_section": {
+    "sold_pieces": "23,434 de 100,000 piezas",
+    "already_sold": "Ya vendido"
+  },
+  "legacy_section": {
+    "mark_legacy_by": "Marque su legado al adquirir una pieza <br />de la Cadena de Jerusalén",
+    "land_size": "Tamaño de la tierra",
+    "number_of_pieces": "Número de piezas",
+    "size_of_a_piece": "Tamaño de una pieza",
+    "meter": "m",
+    "santimeter": "cm"
+  },
+  "why_purchase_section": {
+    "why_purchase": "¿Por qué comprar partes de la Cadena de Jerusalén?",
+    "mark_your_legacy": "Marcar su legado",
+    "mark_your_legacy_text": "Poseer una pieza digital de tierra santa de Jerusalén es un importante valor espiritual y emocional. Establecer una conexión con este lugar sagrado permite al individuo marcar su legado en la historia de Jerusalén. Adquirir una pieza de la Cadena de Jerusalén le permite mantener esta valiosa conexión incluso cuando está lejos físicamente. La Cadena de Jerusalén unirá su nombre y la información de su propiedad a la historia de Jerusalén para siempre.",
+    "a_perfect_gift": "Un regalo perfecto",
+    "a_perfect_gift_text": "La propiedad de una pieza de la Cadena de Jerusalén es transferible a familia y amigos. Esto significa que puede ofrecer un pieza especial de Jerusalén a sus seres queridos para una ocasión especial, como un cumpleaños, un aniversario, graduación, fiesta, etc. Además de ser transferible como un regalo, cada pieza de la Cadena de Jerusalén también incluye una opción para especificar un familiar cercano y una transición sencilla de su legado a su familia.",
+    "in_memory_of_a_loved_one": "En memoria de un ser querido",
+    "in_memory_of_a_loved_one_text": "Pida una pieza de la Cadena de Jerusalén en nombre de su ser querido. Puede tener un recuerdo de ellos perdurable y vivo indefinidamente en la Cadena de Jerusalén. La pieza dedicada al miembro de su familia se grabará irrevocablemente en blockchain y mantendrá su legado y recuerdo vivos.",
+    "ownership_transparency": "Transparencia de la propiedad",
+    "ownership_transparency_text": "Cualquier proyecto basado en blockchain hace que el registro de la propiedad sea transparente, inmutable e indestructible. Su pieza digital de la Cadena de Jerusalén permanecerá para siempre en su posesión y no se le podrá quitar a menos que tome la decisión de transferirla."
+  },
+  "login": "Iniciar sesión",
+  "reserve": "Reservar",
+  "about": "Acerca de",
+  "how_it_works": "Cómo funciona",
+  "faq": "FAQ",
+  "timeline": "Cronograma",
+  "t&c": "T&C",
+  "our_vision": "Nuestra visión",
+  "contact": "Contacto",
+  "watch_video": "Ver video",
+  "footer_copyright": "Tierra de Jerusalén, 2018",
+  "your_own": "Suya",
+  "blockchain_secured": "Blockchain-seguro",
+  "piece_of_history": "Pieza de historia",
+  "reservation_sale": "Venta de reserva",
+  "bonus": "50% de bonficación ahora",
+  "for": "Para",
+  "learn_more": "Saber más sobre la Cadena de Jerusalén",
+  "piece": "Pieza",
+  "piece_available": "La pieza está disponible",
+  "reserve_for": "Reserva para",
+  "owner": "Propietario",
+  "document_id": "ID de documento",
+  "reserve_jerusalem_chain_land": "Reserve tierra de la Cadena de Jerusalén",
+  "receive_bonus": "y recibir una bonificación del 50%",
+  "project_timeline": "Cronograma del proyecto"
+}

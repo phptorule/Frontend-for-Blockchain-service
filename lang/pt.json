@@ -1,0 +1,116 @@
+{
+  "languages": {
+    "en": "Inglês",
+    "br": "Português",
+    "fr": "Francês",
+    "de": "Alemão",
+    "es": "Espanhol",
+    "ru": "Russo"
+  },
+  "countdown": {
+    "days": "Dias",
+    "hours": "Horas",
+    "minutes": "Minutos",
+    "seconds": "Segundos"
+  },
+  "month": {
+    "august": "Agosto",
+    "october": "Outubro",
+    "november": "Novembro"
+  },
+  "form": {
+    "your_name": "Seu nome",
+    "incorrect_name": "Nome incorreto",
+    "e_mail": "E-mail",
+    "incorrect_email": "Endereço de e-mail incorreto",
+    "your_message": "Sua mensagem",
+    "message_is_required": "Uma mensagem é necessária",
+    "send": "Enviar",
+    "follow_facebook": "Siga-nos no Facebook",
+    "follow_twitter": "Siga-nos no Twitter",
+    "join_telegram": "Participe do nosso canal no Telegram"
+  },
+  "features_section": {
+    "jerusalem_chain_pieces": "Lotes da Jerusalem Chain",
+    "jerusalem_chain_pieces_text": "A Jerusalem Chain representa 650m2 de terreno físico em Jerusalém que repousa no centro dos locais mais espirituais do mundo. Este terreno foi dividido em um total de 2.166.667 lotes de 3cm2, cada um com uma contraparte digital. Esses lotes digitais serão oferecidos para a posse de qualquer pessoa que deseja marcar seu legado na cidade santa.",
+    "your_legacy": "Seu Legado",
+    "your_legacy_text": "A Jerusalem Chain tornou possível para qualquer um marcar seu legado, pela eternidade, reivindicando um lote de Jerusalém. A propriedade de cada um dos 2.166.667 lotes digitais da Jerusalem Chain será registrada de forma irrevogável e imutável no Blockchain, permitindo assim que qualquer pessoa proteja seu pedaço da história e marque seu legado.",
+    "reservation_sale": "Venda de Reserva",
+    "reservation_sale_text": "Durante a reserva, os lotes da Jerusalem Chain serão oferecidos a qualquer pessoa interessada em reivindicar sua própria porção da cidade santa de Jerusalém, marcar seu legado em sua história e estabelecer um relacionamento duradouro com Jerusalém, mesmo que fisicamente distante. Durante a venda da reserva, os lotes da Jerusalem Chain serão oferecidos a um preço atrativo e reduzido.",
+    "blockchain_technology": "Tecnologia de Blockchain",
+    "blockchain_technology_text": "A tecnologia de blockchain oferece um armazenamento descentralizado, transparente e seguro de dados e valores. Através do uso da rede Ethereum, a Jerusalem Chain está oferecendo a posse de lotes digitais da Jerusalem Chain. Cada registro de propriedade registrado no Blockchain inclui as informações do proprietário (não obrigatórias), garantindo assim a posse imutável, irrevogável e transparente de um lote digital.",
+    "jerusalem_chain_project": "Projeto da Jerusalem Chain",
+    "jerusalem_chain_project_text": "O projeto da Jerusalem Chain tem como objetivo criar uma representação digital do terreno físico real de 650 m2. Cada proprietário de um lote digital terá a possibilidade de acessar uma interface gráfica de usuário (ou seja, um mapa interativo virtual) que será disponibilizado no site da Jerusalem Chain. No mapa, os proprietários poderão localizar e explorar seu lote de terra."
+  },
+  "timeline_section": {
+    "reservation_sale": "Venda de Reserva",
+    "reservation_sale_text": "Durante a venda da reserva, um número limitado de lotes da Jerusalem Chain estará disponível para reserva com preços atrativos. Durante essa fase, você poderá comprar e reservar lotes da Jerusalem Chain por ordem de chegada.",
+    "project_launch": "Lançamento do Projeto",
+    "project_launch_text": "Após o lançamento da Jerusalem Chain, você poderá explorar sua propriedade utilizando a interface digital no site da Jerusalem Chain. Você poderá visualizar seu próprio lote, acessar seu legado e manter essa conexão especial com Jerusalém.",
+    "memorabilia": "Recordações",
+    "memorabilia_text": "Os proprietários dos lotes terão a opção de solicitar um certificado de propriedade da Jerusalem Chain impresso e emoldurado, permitindo expor o legado de alguém e manter o relacionamento especial com Jerusalém, mesmo quando fisicamente distante."
+  },
+  "faq_section": {
+    "what_is_jerusalem_land": "O que é o Terreno da Jerusalem Chain?",
+    "what_is_jerusalem_land_text_one": "A Jerusalem Chain é um projeto que permite que pessoas do mundo todo deixem seu legado na história de Jerusalém. A Jerusalem Chain tem a propriedade de 650m2 de terreno físico, descansando nas colinas do Monte das Oliveiras em Jerusalém, bem no centro dos locais mais espirituais do mundo. Esse terreno é dividido em 2.166.667 lotes de 3cm2, cada um com uma contraparte digital. Esses lotes digitais são oferecidos para a posse de qualquer pessoa que deseja marcar seu legado na cidade santa e deixar sua marca.",
+    "what_is_jerusalem_land_text_two": "Usando a tecnologia de blockchain, a Jerusalem Chain está oferecendo a posse de lotes digitais da Jerusalem Chain. Cada registro de propriedade registrado no Blockchain inclui as informações do proprietário (não obrigatórias), garantindo assim a posse imutável, irrevogável e transparente de um lote digital, juntamente com um legado duradouro.",
+    "piece_of_land_look_like": "Qual a aparência de um lote do terreno?",
+    "is_the_land_mine": "O terreno que eu comprei é meu?",
+    "is_ownership_private": "Informações sobre a propriedade são confidenciais?",
+    "can_i_buy_land_as_a_gift": "Posso comprar um terreno da Jerusalem Chain como presente?"
+  },
+  "about_section": {
+    "mark_your_legacy": "Marque seu legado em Jerusalém",
+    "legacy_first": "Ao longo da história, Jerusalém tem sido um lugar sagrado, um epicentro da terra santa e, ao que tudo indica, eternamente fora de alcance. As pessoas sempre procuraram estabelecer uma conexão profunda com a cidade santa e deixar sua marca. Isso era inimaginável até agora.",
+    "legacy_second": "A tecnologia de Blockchain permite que qualquer pessoa estabeleça uma conexão especial com a cidade sagrada obtendo a propriedade de um lote digital de Jerusalém e, ao fazê-lo, marcar seu legado na história de Jerusalém."
+  },
+  "sold_section": {
+    "sold_pieces": "23.434 de 100.000 lotes",
+    "already_sold": "Já foi vendido"
+  },
+  "legacy_section": {
+    "mark_legacy_by": "Marque o seu legado adquirindo um lote <br /> da Jerusalem Chain",
+    "land_size": "Tamanho do Terreno",
+    "number_of_pieces": "Número de lotes",
+    "size_of_a_piece": "Tamanho de um lote",
+    "meter": "m",
+    "santimeter": "cm"
+  },
+  "why_purchase_section": {
+    "why_purchase": "Por que comprar Lotes da Jerusalem Chain?",
+    "mark_your_legacy": "Marque o Seu Legado",
+    "mark_your_legacy_text": "Possuir um lote digital da terra santa de Jerusalém tem um importante valor espiritual e emocional. Estabelecer uma conexão com esse lugar sagrado permite que um indivíduo marque seu legado na história de Jerusalém. Adquirir um lote da Jerusalem Chain permite que você mantenha essa conexão preciosa mesmo quando está fisicamente distante. A Jerusalem Chain anexará seu nome e informações de propriedade eternamente à história de Jerusalém.",
+    "a_perfect_gift": "Um Presente Perfeito",
+    "a_perfect_gift_text": "A propriedade de um lote da Jerusalem Chain é transferível para familiares e amigos. Isso significa que você pode presentear seus entes queridos com um lote especial de Jerusalém para qualquer ocasião especial, seja um aniversário, formatura, feriado etc. Além de ser transferível como um presente, cada lote da Jerusalem Chain também inclui uma opção para especificar um parente próximo para garantir uma transição tranquila e sem complicações do seu legado para sua família.",
+    "in_memory_of_a_loved_one": "Em memória de uma Pessoa Querida",
+    "in_memory_of_a_loved_one_text": "Reivindique um lote da Jerusalem Chain em nome de uma pessoa querida. Você pode fazer com que a memória deles perdure indefinidamente na Jerusalem Chain. O lote dedicado ao seu familiar ou amigo será irrevogavelmente registrado no blockchain, mantendo seu legado e memória vivos.",
+    "ownership_transparency": "Transparência de Propriedade",
+    "ownership_transparency_text": "Qualquer projeto baseado em blockchain torna o registro de propriedade não apenas transparente, mas também imutável e indestrutível. Seu lote digital da Jerusalem Chain permanecerá em sua posse eternamente e não poderá ser tirado de você, a menos que você decida transferi-lo."
+  },
+  "login": "Login",
+  "reserve": "Reservar",
+  "about": "Sobre",
+  "how_it_works": "Como Funciona",
+  "faq": "Perguntas Frequentes",
+  "timeline": "Cronograma",
+  "t&c": "Termos e Condições",
+  "our_vision": "Nossa visão",
+  "contact": "Contato",
+  "watch_video": "Assista ao Vídeo",
+  "footer_copyright": "Terra de Jerusalém, 2018",
+  "your_own": "Seu próprio",
+  "blockchain_secured": "Protegido por blockchain",
+  "piece_of_history": "Pedaço da História",
+  "reservation_sale": "Venda de Reserva",
+  "bonus": "50% de Bônus Agora",
+  "for": "Para",
+  "learn_more": "Conheça mais sobre a Jerusalem Chain",
+  "piece": "Lote",
+  "piece_available": "Este lote está disponível",
+  "reserve_for": "Reserve para",
+  "owner": "Proprietário",
+  "document_id": "Documento de identidade",
+  "reserve_jerusalem_chain_land": "Reservar terreno da Jerusalem Chain",
+  "receive_bonus": "e receba um bônus de 50%",
+  "project_timeline": "Cronograma do Projeto"
+}

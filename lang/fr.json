@@ -1,0 +1,116 @@
+{
+  "about": "À propos de nous",
+  "about_section": {
+    "legacy_first": "Tout au long de l'histoire, Jérusalem a été un lieu sacré, un épicentre de la terre sainte, toujours hors de portée. Les gens ont toujours cherché à établir un lien profond avec la ville sainte et à laisser leur empreinte. Ceci était inimaginable jusqu'à maintenant.",
+    "legacy_second": "La technologie blockchain permet à quiconque d'établir une connexion spéciale avec la ville sacrée en obtenant la propriété d'une pièce digitale de Jérusalem et en marquant leur héritage dans l'histoire de Jérusalem.",
+    "mark_your_legacy": "Marquez votre héritage à Jérusalem "
+  },
+  "blockchain_secured": "Sécurisé sur la Blockchain",
+  "bonus": "50% de bonus maintenant ",
+  "contact": "Contact",
+  "countdown": {
+    "days": "jours",
+    "hours": "Heures",
+    "minutes": "Minutes",
+    "seconds": "secondes"
+  },
+  "document_id": "Identifiant de document ",
+  "faq": "FAQ",
+  "faq_section": {
+    "can_i_buy_land_as_a_gift": "Puis-je acheter une pièce Jerusalem Chain en cadeau",
+    "is_ownership_private": "L'information sur la propriéte des pièces, est-elle privée?",
+    "is_the_land_mine": "Est la terre que j'ai acheté ma propriété?",
+    "piece_of_land_look_like": "À quoi ressemble le terrain?\n",
+    "what_is_jerusalem_land": "Qu'est-ce que c'est, Jerusalem Chain?",
+    "what_is_jerusalem_land_text_one": "Jerusalem Chain est un projet qui permet aux gens du monde entier de marquer leur héritage dans l'histoire de Jérusalem. Jerusalem Chain a la propriété de 650m2 de terre physique reposant sur les collines du Mont des Oliviers à Jérusalem, au centre des sites les plus spirituels du monde. Cette terre est divisée en 2,166,667 pièces de 3 cm2, chacune ayant un homologue digitale. Ces pièces numériques sont offertes à tous ceux qui cherchent à marquer leur héritage dans la ville sainte et à laisser leur empreinte.",
+    "what_is_jerusalem_land_text_two": "À l'aide de la technologie blockchain, Jerusalem Chain offre la propriété de pièces digitales de Jerusalem Chain. Chaque registre de propriété enregistré sur la blockchain inclut les informations du propriétaire (pas obligatoire), garantissant ainsi la propriété immuable, irrévocable et transparente d'une pièce digitale avec un héritage durable."
+  },
+  "features_section": {
+    "blockchain_technology": "La technologie Blockchain ",
+    "blockchain_technology_text": "La technologie blockchain fournit un stockage décentralisé, transparent et sécurisé de la valeur et des données. Grâce à l'utilisation du réseau Ethereum, Jerusalem Chain offre la propriété de morceaux digitals de Jerusalem Chain. Chaque registre de propriété enregistré sur la blockchain inclut les informations du propriétaire (non obligatoires), garantissant ainsi la propriété immuable, irrévocable et transparente d'une pièce digitale.",
+    "jerusalem_chain_pieces": "Pièces de Jerusalem Chain",
+    "jerusalem_chain_pieces_text": "Jerusalem Chain représente 650m2 de terre physique reposant au centre des sites les plus spirituels du monde à Jérusalem. Cette terre a été divisée en un total de 2.166.667 pièces de 3cm2, chacune avec un homologue digital. Ces pièces digitales seront offertes à tous ceux qui cherchent à marquer leur héritage dans la ville de Jérusalem.",
+    "jerusalem_chain_project": "Le projet Jerusalem Chain",
+    "jerusalem_chain_project_text": "Le projet Jerusalem Chain vise à créer une représentation digitale du terrain physique de 650 m2. Chaque propriétaire d'une pièce digitale aura la possibilité d'accéder à une interface utilisateur graphique (c'est-à-dire une carte interactive virtuelle) qui sera mise à disposition sur le site web de Jerusalem Chain. Sur la carte, les propriétaires pourront localiser et explorer leur terrain.",
+    "reservation_sale": "La phase de réservation  ",
+    "reservation_sale_text": "Pendant la phase de réservation, des pièces de Jerusalem Chain seront offertes à toute personne intéressée afin de réclamer son propre morceau de la ville de Jérusalem. Cela permettra aux gens de marquer leur héritage dans son histoire et établir une relation avec Jérusalem même si elle est physiquement éloignée. Lors de la phase de réservation, les pièces de Jerusalem Chain seront offertes à un prix attractif et réduit.",
+    "your_legacy": "Votre héritage",
+    "your_legacy_text": "Jerusalem Chain a permet à quiconque de marquer leur héritage, dans l'éternité, en revendiquant un morceau de Jérusalem. La propriété de chacune des 2,166,667 pièces digitales de Jerusalem Chain sera irrévocablement et immuablement enregistrée sur la blockchain, permettant ainsi à chacun de sécuriser son morceau d'histoire et de marquer leur héritage."
+  },
+  "footer_copyright": "Jerusalem Chain, 2018",
+  "for": "Pour",
+  "form": {
+    "e_mail": "adresse e-mail",
+    "follow_facebook": "Suivez-nous sur Facebook",
+    "follow_twitter": "Suivez-nous sur Twitter",
+    "incorrect_email": "adresse e-mail incorrecte",
+    "incorrect_name": "Nom incorrect",
+    "join_telegram": "Rejoignez notre chaîne Telegram ",
+    "message_is_required": "Un message est requis ",
+    "send": "Envoyer",
+    "your_message": "Votre message",
+    "your_name": "Votre nom"
+  },
+  "how_it_works": "Comment ça marche ",
+  "languages": {
+    "br": "brésilien",
+    "de": "allemand",
+    "en": "anglais",
+    "es": "espagnol",
+    "fr": "français",
+    "ru": "russe"
+  },
+  "learn_more": "En savoir plus sur Jerusalem Chain",
+  "legacy_section": {
+    "land_size": "La taille du terrain",
+    "mark_legacy_by": "Marquez votre héritage en acquérant une pièce de Jerusalem Chain",
+    "meter": "m",
+    "number_of_pieces": "Nombre de pièces ",
+    "santimeter": "cm",
+    "size_of_a_piece": "T'aille d'une pièce "
+  },
+  "login": "S'identifier",
+  "month": {
+    "august": "août",
+    "november": "Novembre ",
+    "october": "octobre"
+  },
+  "our_vision": "Notre vision",
+  "owner": "Propriétaire ",
+  "piece": "Pièce",
+  "piece_available": "Cette pièce est disponible ",
+  "piece_of_history": "Pièce d'histoire ",
+  "project_timeline": "La calendrier du projet",
+  "receive_bonus": "et recevez un bonus de 50%",
+  "reservation_sale": "La phase de réservation ",
+  "reserve": "Réserver",
+  "reserve_for": "Réserver pour",
+  "reserve_jerusalem_chain_land": "Réserver une pièce de Jerusalem Chain",
+  "sold_section": {
+    "already_sold": "Déjà vendu ",
+    "sold_pieces": "23,434 sur 100,000 pièces "
+  },
+  "t&c": "Modalités et Conditions",
+  "timeline": "Calendrier du projet",
+  "timeline_section": {
+    "memorabilia": "Souvenirs",
+    "memorabilia_text": "Les propriétaires de pièces auront l'option de commander un certificat de propriété imprimé et encadré qui permettra de présenter leurs héritage et de maintenir la relation spéciale avec Jérusalem même si elle est physiquement éloignée.",
+    "project_launch": "Lancement du projet",
+    "project_launch_text": "Après le lancement de Jerusalem Chain, vous serez en mesure d'explorer votre propriété en utilisant l'interface digitale sur le site web de Jerusalem Chain. Vous serez en mesure de voir votre propre pièce, accéder à votre héritage et garder cette connexion spéciale avec Jérusalem.",
+    "reservation_sale": "La phase de réservation ",
+    "reservation_sale_text": "Lors de la phase de réservation, un nombre limité de pièces Jerusalem Chain seront disponibles à la réservation à des prix attractifs. Durant cette phase, vous pourrez acheter et réserver des pièces de Jerusalem Chain selon le principe du premier arrivé, premier servi."
+  },
+  "watch_video": "Regarder la vidéo ",
+  "why_purchase_section": {
+    "a_perfect_gift": "Une cadeau parfait ",
+    "a_perfect_gift_text": "La propriété d'une pièce de Jerusalem Chain est transférable, qui ce soit à la famille ou aux amis. Cela veut dire que vous pouvez offrir une pièce Jerusalem Chain à vos proches pour toute occasion spéciale, que ce soit un anniversaire, un anniversaire de marriage, un diplôme, des vacances, etc. En plus d'être transférable comme cadeau, chaque pièce de Jérusalem Chain comprend également une option pour spécifier le plus proche parent pour assurer la transition sans tracas de votre héritage à votre famille.",
+    "in_memory_of_a_loved_one": "En mémoire d'un être cher",
+    "in_memory_of_a_loved_one_text": "Réclamez une pièce de Jerusalem Chain au nom de votre bien-aimé. Vous pouvez avoir un souvenir durable, indéfiniment sur Jerusalem Chain. La pièce dédiée à votre membre de la famille ou à un ami sera irrévocablement enregistrée sur la blockchain en gardant leur héritage et leur mémoire en vie.",
+    "mark_your_legacy": "Marquez votre héritage ",
+    "mark_your_legacy_text": "Posséder une pièce digitale de la terre sainte de Jérusalem a une valeur spirituelle et émotionnelle importante. Établir une connexion à ce lieu sacré permet à un individu de marquer son héritage dans l'histoire de Jérusalem. Acquérir une pièce de Jerusalem Chain vous permet de maintenir cette précieuse connexion même lorsque vous êtes physiquement éloigné. Jerusalem Chain rattachera votre nom et vos informations de propriété à l'histoire de Jérusalem pour toujours.",
+    "ownership_transparency": "Transparence de la propriété",
+    "ownership_transparency_text": "Tout les projets a base de blockchain rendent l'enregistrement de la propriété non seulement transparent mais aussi immuable et indestructible. Votre pièce digitale de Jerusalem Chain restera en votre possession pour toujours et ne peut vous être retirée à moins que vous ne décidiez de la transférer.",
+    "why_purchase": "Pourquoi acheter des pièces de Jerusalem Chain?"
+  },
+  "your_own": "Votre propre"
+}

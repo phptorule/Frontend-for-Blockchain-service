@@ -1,0 +1,34 @@
+# dependencies
+node_modules
+
+# PWA Script
+sw.*
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+
+# IDE
+.idea
+
+# Purgecss tmp
+.tmp
+
+# eslint
+.eslintcache
+
+# Vim
+*.swp
+*.swo
+*.swn
+
+# Ignore sitemap
+static/sitemap.xml*
+
+# Ignore .env variables
+.env

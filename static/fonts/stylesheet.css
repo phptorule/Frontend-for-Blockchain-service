@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Cinzel';
+    src: url('Cinzel-Regular.woff2') format('woff2'),
+        url('Cinzel-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cinzel';
+    src: url('Cinzel-Bold.woff2') format('woff2'),
+        url('Cinzel-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-Regular.woff2') format('woff2'),
+        url('Roboto-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Core Sans A 55';
+    src: url('CoreSansA55Medium-Italic.woff2') format('woff2'),
+        url('CoreSansA55Medium-Italic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Core Sans A 55';
+    src: url('CoreSansA55Medium.woff2') format('woff2'),
+        url('CoreSansA55Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Core Sans A 45';
+    src: url('CoreSansA45Regular.woff2') format('woff2'),
+        url('CoreSansA45Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Core Sans A 35';
+    src: url('CoreSansA35Light.woff2') format('woff2'),
+        url('CoreSansA35Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Core Sans A 65';
+    src: url('CoreSansA65Bold.woff2') format('woff2'),
+        url('CoreSansA65Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Core Sans A 35';
+    src: url('CoreSansA35Light-Italic.woff2') format('woff2'),
+        url('CoreSansA35Light-Italic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+
